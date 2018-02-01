@@ -1,0 +1,5 @@
+# English US Language file for Tutorial Mod
+itemGroup.tab_playground=Play Ground
+
+# Items
+item.tutorial_item.name=PG Item

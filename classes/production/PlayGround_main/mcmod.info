@@ -1,0 +1,11 @@
+[
+{
+  "modid": "playground",
+  "name": "Play Ground",
+  "description": "My Minecraft PlayGround",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["TheCahyag"],
+  "dependencies": []
+}
+]
